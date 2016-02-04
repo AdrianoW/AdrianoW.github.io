@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://AdrianoW.github.io
+title: Adriano W Almeida
+tagline: Data Science, Big Data and Business Intelligence
+description: A blog about Data stuff
+paginate: 5
